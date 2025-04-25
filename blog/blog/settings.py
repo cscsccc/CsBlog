@@ -282,8 +282,8 @@ CSRF_COOKIE_HTTPONLY = True  # CSRF cookie 是否为 HTTP Only，默认为True�
 EMAIL_HOST = 'smtp.gmail.com'  # 邮件服务器地址
 EMAIL_PORT = 587  # SMTP 端口号，587 是 TLS 的常用端口
 EMAIL_USE_TLS = True  # 启用 TLS 加密
-EMAIL_HOST_USER = 'cscs53546@gmail.com'  # 发件人邮箱
-EMAIL_HOST_PASSWORD = 'j h x m l m a g g p y n l u x o'  # 发件人邮箱密码
+EMAIL_HOST_USER = '******'  # 发件人邮箱
+EMAIL_HOST_PASSWORD = '******'  # 发件人邮箱密码
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER  # 默认发件人邮箱
 
 # 下载文件路径
